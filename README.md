@@ -1,4 +1,4 @@
-# Exercise about JAVA exceptions
+# Exercise about interfaces in JAVA 
 
 
 >### Status: Finished ✔️
@@ -11,7 +11,7 @@
 ---
 
 >## SOBRE ❓
-> Exercicio sobre exceções para exercitar programação orientada a objeto utilizando outros conceitos também, como por exemplo:
+> Exercicio sobre interface para exercitar programação orientada a objeto utilizando outros conceitos também, como por exemplo:
  classes, métodos, atributos, objetos, polimorfismo, construtores e encapsulamento.<br><br>
 
 ---
@@ -20,12 +20,13 @@
 
 ## Enunciado 
 
-<img src="https://github.com/Leothurm/Exceptions-JAVA/blob/main/img/Enunciado.PNG">
+<img src="https://github.com/Leothurm/java-interface/blob/main/img/Enunciado1.PNG">
+<img src="https://github.com/Leothurm/java-interface/blob/main/img/Enunciado2.PNG">
 
 
 ## Estrutura
 
-<img src="https://github.com/Leothurm/Exceptions-JAVA/blob/main/img/estrutura.PNG">
+<img src="https://github.com/Leothurm/java-interface/blob/main/img/Estrutura.PNG">
 
 </div>
 
